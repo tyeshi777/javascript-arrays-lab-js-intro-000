@@ -9,5 +9,5 @@ function destructivelyPrependKitten(mira) {
   kittens.unshift("mira");
   return kittens;
 }
-
+function destructivelyRemoveLastKitten
 
