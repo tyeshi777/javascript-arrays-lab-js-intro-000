@@ -5,5 +5,5 @@ function destructivelyAppendKitten() {
   kittens.push("lucy");
   return kittens;
 }
-console.log(kittens);
+
 
